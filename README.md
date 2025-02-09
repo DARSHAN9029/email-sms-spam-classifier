@@ -49,6 +49,7 @@ The project is deployed on Render. To deploy your own:
    streamlit run spam_app.py --server.port 10000 --server.address 0.0.0.0
    ```
 4. Deploy!
+5. Website :- https://email-sms-spam-ham-classifier.onrender.com/
 
 ## Future Enhancements
 - Add **deep learning** models for better performance.
@@ -56,7 +57,7 @@ The project is deployed on Render. To deploy your own:
 - Integrate with **Twilio API** for SMS filtering.
 
 ## Author
-Developed by **[Your Name]** 🚀
+Developed by Darshan K Jain 🚀
 
 ## License
 MIT License
