@@ -5,25 +5,9 @@ Text Preprocessing – Removes stopwords, punctuation, and applies stemming
 TF-IDF Vectorization – Converts text into numerical features
 Multinomial Naïve Bayes Classifier – Achieves high accuracy in spam detection
 Streamlit UI – Interactive web app for real-time classification
-Installation & Usage
-Clone the repository:
-bash
-Copy
-Edit
-git clone https://github.com/your-username/spam-classifier.git
-cd spam-classifier
-Install dependencies:
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the Streamlit app:
-bash
-Copy
-Edit
-streamlit run spam_app.py
-Enter a message and check if it’s Spam or Not Spam!
-Technologies Used
-🔹 Python, NLTK, Scikit-learn, Pandas, NumPy
-🔹 Machine Learning (Multinomial Naïve Bayes)
-🔹 Streamlit for UI
+
+Technologies Used:-
+
+1.  Python, NLTK, Scikit-learn, Pandas, NumPy
+2. Machine Learning (Multinomial Naïve Bayes)
+3. Streamlit for UI
