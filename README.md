@@ -52,7 +52,6 @@ The project is deployed on Render. To deploy your own:
 5. Website :- https://email-sms-spam-ham-classifier.onrender.com/
 
 ## Future Enhancements
-- Add **deep learning** models for better performance.
 - Implement **real-time email filtering**.
 - Integrate with **Twilio API** for SMS filtering.
 
